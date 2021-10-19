@@ -1,0 +1,6 @@
+[kubernetes-master-nodes]
+ip-172-31-1-241 ansible_host=172.31.1.241
+
+[kubernetes-worker-nodes]
+ip-172-31-1-159 ansible_host=172.31.1.159
+ip-172-31-12-20 ansible_host=172.31.12.20
